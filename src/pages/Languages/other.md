@@ -1,5 +1,5 @@
-<properties
-    pageTitle="Other languages"
+﻿<properties
+    pageTitle="其它语言"
     description="Visual Studio provides support for a wide variety of languages and technologies - either built-in or as extensions."
     slug="other"
     order="1500"

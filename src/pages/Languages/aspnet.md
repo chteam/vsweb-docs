@@ -1,12 +1,12 @@
 ﻿<properties
 	pageTitle="C# / ASP.NET"
-	description="ASP.NET is a free, open source web framework for building great Web sites and Web applications using HTML, CSS and JavaScript."
+	description="ASP.NET 是一款利用 HTML、CSS 以及 JavaScript 来构建大型应用的 web 框架，它是开源、免费的。"
 	slug="aspnet"
     order="100"
 	keywords="c#, asp.net, roslyn, server-side, mvc, webforms, web forms, webpages, web pages"
 />
 
-## Open source
+## 开源
 Found a bug or got a new idea? Open an issue or send a pull request. 
 All of the ASP.NET and .NET Core CLR runtime components as well the Azure SDKs 
 for any language are all on GitHub and taking contributions. Get involved today! 
@@ -26,24 +26,24 @@ as the entire .NET framework types available.
 ## Tag Helpers
 coming soon...
 
-## Tilde slash
+## ~ 符号的支持
 You can use the tilde (~) character in Razor markup to indicate the root
 of the website. This is particularly useful when the root of the application
 is located in a subfolder of an existing website.
 
 ![ASP.NET the tilde character](_assets/aspnet-tilde.png)
 
-## Model driven development
+## 模型驱动开发
 The models used in an ASP.NET application can be annotated to provide
 a wide range of experiences such as database schema generation,
 view scaffolding, client- and server-side validation and more.
 
-### Model annotations
+### Model 注释
 Annotate your models to generate the database schema and scaffold views.
 
 ![ASP.NET model annotations](_assets/aspnet-model-annotations.gif)
 
-### Validation
+### 验证
 Annotations will also ensure both server- and client-side validation.
 
 ![ASP.NET annotations for validation](_assets/aspnet-annotations-validation.gif)
@@ -54,7 +54,7 @@ In the works...
 ### Dynamic templating
 coming soon...
 
-## Roslyn compiler
+## Roslyn 编译器
 The .NET Compiler Platform ("Roslyn") provides open-source C# and 
 Visual Basic compilers with rich code analysis APIs. 
 
@@ -67,7 +67,7 @@ the configuration in the projects.
 
 ![ASP.NET configuration](_assets/aspnet-configuration.png)
 
-## Code based configuration
+## 基于代码的配置
 Any identity, routing and database configuration is code based to give
 full fidelity to the logic need for any web app.
 

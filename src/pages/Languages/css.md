@@ -1,4 +1,4 @@
-<properties
+﻿<properties
 			pageTitle="CSS"
 			description="The new CSS editor in Visual Studio fully supports all versions of CSS including CSS Selectors Level 4."
 			slug="css"
@@ -6,7 +6,7 @@
 			keywords="css, intellisense, stylesheets"
 />
 
-## Auto-completion
+## 自动完成
 Visual Studio [IntelliSense](http://go.microsoft.com/fwlink/?LinkId=532997) is always up-to-date with the latest web standards. You get accurate hints for classes, IDs and attribute names and values, which can sometimes be hard to remember.
 
 ![Advanced auto completion](_assets/css-advanced-auto-completion.gif)

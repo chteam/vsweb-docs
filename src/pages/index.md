@@ -5,9 +5,9 @@
 	keywords="visual studio, visualstudio, vs, vs2012, vs2013, vs2015, dev11, dev12, dev14"
 />
 
-## Web development in Visual Studio
+## Visual Studio 中的 Web 开发
 
-Visual Studio is the best integrated development environment for the web, devices, and the cloud.
+Visual Studio 提供最好的 web、设备以及云端的集成开发环境。
 
 Features like [IntelliSense](http://go.microsoft.com/fwlink/?LinkId=532997), [Browser Link](http://www.asp.net/visual-studio/overview/2013/using-browser-link), [snippets](https://msdn.microsoft.com/library/ms165392.aspx), and [debuggers](https://msdn.microsoft.com/library/ms165008.aspx) work with the languages and frameworks of your choice.  Be more productive developing in [HTML, JavaScript, and CSS as well as the .NET languages](/languages/).  Use the [web development frameworks](/frameworks/) of your choice, including Angular, Knockout, and Bootstrap on the client, PHP, Django, and ASP.NET on the server, and many others.
 

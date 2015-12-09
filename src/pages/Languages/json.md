@@ -5,8 +5,8 @@
 			keywords="json, jsonp, javascript object notation"
 />
 
-## Auto-completion
-Writing JSON documents has never been easier than with the Visual Studio JSON editor.
+## 自动完成
+使用 Visual Studio JSON 编辑器将使你编写 JSON 文档更加容易。
 
 You can even type the colon before the closing quote of a property name to save a few keystrokes.
 

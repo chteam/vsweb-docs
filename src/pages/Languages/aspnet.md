@@ -16,8 +16,7 @@
 ## Razor
 ASP.NET Razor 语法允许在你的 view 文件中，编写行内 C#。
 
-You've got full access to the current `Model` as well
-as the entire .NET framework types available.
+你可以完全访问 `Model` 类似于访问 .NET framework 。
 
 ![ASP.NET Razor](_assets/aspnet-razor.gif)
 
@@ -53,8 +52,8 @@ In the works...
 coming soon...
 
 ## Roslyn 编译器
-The .NET Compiler Platform ("Roslyn") provides open-source C# and 
-Visual Basic compilers with rich code analysis APIs. 
+.NET 编译器平台 "Roslyn" 提供了开源的、拥有完整代码分析 API 的 C# 以及 
+Visual Basic 编译器。 
 
 It enables building code analysis tools with the same APIs that are 
 used by Visual Studio.

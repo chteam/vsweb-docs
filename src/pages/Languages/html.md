@@ -6,12 +6,12 @@
 	keywords="html, intellisense, html5, xhtml, autocomplete"
 />
 
-## Auto-completion
+## 自动完成
 The HTML editor's up-to-date web standards definitions provide accurate and fast [IntelliSense](http://go.microsoft.com/fwlink/?LinkId=532997) for all elements and attributes. For attributes, IntelliSense lists available values as well as names.
 
 ![Basic auto completion](_assets/html-auto-completion.gif)
 
-## Match end-tag
+## 自动匹配结束标签
 Never let your tags get out of sync again when editing. When you edit a tag, Visual Studio automatically updates its corresponding begin or end tag to keep them in sync.
 
 ![Match end-tag](_assets/html-match-end-tag.gif)

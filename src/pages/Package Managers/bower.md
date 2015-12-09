@@ -5,25 +5,25 @@
 	keywords="bower, packages, bowerjs"
 />
 
-## bower.json Intellisense
-Get full [IntelliSense](http://go.microsoft.com/fwlink/?LinkId=532997) for everything in bower.json, including live search results from the online Bower registry.
+## bower.json 智能感知
+获取完整的 bower.json [智能感知](http://go.microsoft.com/fwlink/?LinkId=532997) 功能，也包括从线上 Bower registry 搜索的在线的结果。
 
-![Bower package Intellisense](_assets/bower-intellisense.gif)
+![Bower package 智能感知](_assets/bower-intellisense.gif)
 
-## Install on save
+## 安装与保存
 As soon as you save any changes to the `bower.json` file, Visual Studio automatically calls `bower install` to install or restore all packages.
 
-## IDE integration
+## IDE 集成
 The Solution Explorer integrates with Bower to show a logical tree-view structure of the package dependencies.
 
-![Bower IDE integration](_assets/bower-ide-integration.gif)
+![Bower IDE 集成](_assets/bower-ide-integration.gif)
 
 ## Light bulbs
 Perform common tasks on individual packages using the light bulbs that automatically appear next to each package.
 
 ![Bower light bulbs](_assets/bower-light-bulbs.gif)
 
-## Automatic removal of BOM
+## 自动移除 BOM
 To make sure that Bower is always able to read the bower.json file, Visual Studio automatically strips the Byte Order Mark (BOM) when the file is saved.
 
 <aside role="complementary">

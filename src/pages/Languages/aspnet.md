@@ -7,16 +7,14 @@
 />
 
 ## 开源
-Found a bug or got a new idea? Open an issue or send a pull request. 
-All of the ASP.NET and .NET Core CLR runtime components as well the Azure SDKs 
-for any language are all on GitHub and taking contributions. Get involved today! 
+如果你发现了一个 BUG 或者想出一个新的特性怎么办？ 你可以即时打开一个 issue 或者直接提交一个 pull request。
+所有的 ASP.NET 以及 .NET Core CLR 运行时组件都像 Azure SDKs 一样存储在 GitHub 并可以随时贡献代码。 现在就开始吧！ 
 
-It's all on [GitHub](https://github.com/aspnet/home/)
-and pull requests are more than welcome.
+请登录 [GitHub](https://github.com/aspnet/home/)
+提交 pull requests。
 
 ## Razor
-The ASP.NET Razor syntax allows you to inline C# directly inside
-your views. 
+ASP.NET Razor 语法允许在你的 view 文件中，编写行内 C#。
 
 You've got full access to the current `Model` as well
 as the entire .NET framework types available.

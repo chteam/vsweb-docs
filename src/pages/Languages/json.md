@@ -25,12 +25,12 @@ Information from the referenced JSON Schema is displayed as hover tooltips to he
 
 ![JSON tootips](_assets/json-tooltips.gif)
 
-## Comments
+## 注释
 Most modern JSON parsers support comments, and so does Visual Studio. Simply hit the global keyboard shortcut `Ctrl+K+C` to add a comment, or `Ctrl+K+U` to uncomment the line or selection.
 
 ![JSON comments](_assets/json-comments.gif)
 
-## Validation
+## 验证
 The editor helps you keep track of syntax errors and other potential issues, such as duplicate properties.
 
 ![JSON validation](_assets/json-validation.gif)
@@ -48,11 +48,11 @@ Inline `$ref` references make it easy to refactor your JSON Schema.
 
 ![JSON inline references](_assets/json-inline-reference.gif)
 
-### Go to definition
+### 转到定义
 You can hit `F12` on any `$ref` or `$schema` property to navigate
 to its source origin - in both local and remote files.
 
-### Open source
+### 开源
 All the JSON Schema files that provide IntelliSense and validation are open source at [SchemaStore.org](http://schemastore.org).
 
 <aside role="complementary">

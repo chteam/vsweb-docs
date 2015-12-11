@@ -6,8 +6,8 @@
 />
 
 ## Apache Cordova
-Build cross-platform mobile apps for iOS, Android, and Windows devices using Visual Studio Tools for Apache Cordova. With an extension for Visual Studio 
-2013 Update 4 or Visual Studio 2015 Preview, Visual Studio gives you the tools you need to get started building your first app using HTML, CSS, and 
+使用 Visual Studio 的 Apache Cordova 工具可以构建跨 iOS、Android以及 Windows 平台的移动应用。使用 Visual Studio 
+2013 Update 4 或 Visual Studio 2015 以上的扩展，Visual Studio gives you the tools you need to get started building your first app using HTML, CSS, and 
 JavaScript based on Apache Cordova.
 
 You can use the extension to build apps for the following devices and platforms: 

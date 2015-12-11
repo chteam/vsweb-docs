@@ -19,26 +19,27 @@ JavaScript 编辑器提供了对 Gulp 优秀的编辑体验。 像其它的 Node
 
 ![任务运行程序资源管理器中使用 Gulp](_assets/gulp-task-runner-explorer.gif)
 
-## Custom task bindings
-Incorporate Gulp tasks into your natural workflow by associating your task with Visual Studio events.
+## 自定义任务绑定
 
-![Gulp task bindings](_assets/gulp-task-bindings.gif)
+通过将你的 Gulp 任务与 Visual Studio 事件结合，Gulp 的任务将合并到你的日常操作中。
+
+![Gulp 任务绑定](_assets/gulp-task-bindings.gif)
 
 <aside role="complementary">
 
-## Related resources
+## 相关资源
 
 <section>
 
-### More information
+### 更多信息
 
-- [Gulp website](http://gulpjs.com/)
+- [Gulp 官网](http://gulpjs.com/)
 - [Managing your build tasks](http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910)
 </section>
 
 <section>
 
-### Relevant extensions
+### 相关扩展
 
 - [Broccoli Task Runner](https://visualstudiogallery.msdn.microsoft.com/dd19e6af-a1f7-4606-a82a-46833f810865)
 - [NPM Scripts Task Runner](https://visualstudiogallery.msdn.microsoft.com/8f2f2cbc-4da5-43ba-9de2-c9d08ade4941)

@@ -1,23 +1,23 @@
 <properties
 	pageTitle="Gulp"
-	description="Visual Studio has first-class support for the node.js based Gulp task runner."
+	description="Visual Studio 有对基于 Gulp task runner 的 node.js 的一流支持。"
 	slug="gulp"
 	keywords="gulp, gulpjs, gulp.js, task runner"
 />
 
-## Intellisense for gulpfile.js
-The JavaScript editor provides a great editing experience for Gulp. You get full [IntelliSense](http://go.microsoft.com/fwlink/?LinkId=532997) for Gulp as well as other Node.js modules used in your gulpfile.js.
+## gulpfile.js 的智能感知
+JavaScript 编辑器提供了对 Gulp 优秀的编辑体验。 像其它的 Node.js 模块一样，你可以在 gulpfile.js 中获取 Gulp 的[智能感知](http://go.microsoft.com/fwlink/?LinkId=532997) 。
 
-![Intellisense for gulpfile.js](_assets/gulp-auto-completion.gif)
+![gulpfile.js 的智能感知](_assets/gulp-auto-completion.gif)
 
-The [Web Essentials](http://vswebessentials.com) extension also provides auto-completion for loading node modules.
+[Web Essentials](http://vswebessentials.com) 扩展同样也提供了针对加载的 node 模块的自动完成功能。
 
 ![Gulp require](_assets/gulp-require.png)
 
-## Task Runner Explorer
-Use Visual Studio's Task Runner Explorer window to interact with Gulp. Get an overview of your tasks and execute them directly from within Visual Studio.
+## 任务运行程序资源管理器 Task Runner Explorer
+使用 Visual Studio 中的[任务运行程序资源管理器]窗口来调用 Gulp。 你可以直接通过 Visual Studio 来获取 Gulp 执行结果。
 
-![Gulp in Task Runner Explorer](_assets/gulp-task-runner-explorer.gif)
+![任务运行程序资源管理器中使用 Gulp](_assets/gulp-task-runner-explorer.gif)
 
 ## Custom task bindings
 Incorporate Gulp tasks into your natural workflow by associating your task with Visual Studio events.

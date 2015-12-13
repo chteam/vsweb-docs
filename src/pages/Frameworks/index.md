@@ -8,4 +8,4 @@
 
 ![Frameworks](_assets/index-frameworks.png)
 
-Visual Studio provides advanced support including [IntelliSense](http://go.microsoft.com/fwlink/?LinkId=532997) for today's most popular web frameworks, such as Angular and Bootstrap.
+Visual Studio 有一些高级功能，包括对当下各种流行 web 框架的，例如 Angular 以及 Bootstrap。

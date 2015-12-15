@@ -11,7 +11,7 @@
 ![Bower package 智能感知](_assets/bower-intellisense.gif)
 
 ## 安装与保存
-As soon as you save any changes to the `bower.json` file, Visual Studio automatically calls `bower install` to install or restore all packages.
+当你修改 `bower.json` 文件时, Visual Studio 将会自动调用 `bower install` 来安装及还原所有的包。
 
 ## IDE 集成
 The Solution Explorer integrates with Bower to show a logical tree-view structure of the package dependencies.
